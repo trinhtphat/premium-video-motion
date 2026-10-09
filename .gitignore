@@ -1,0 +1,13 @@
+# HyperFrames transient preview/cache files
+**/.hyperframes/preview/
+**/.hyperframes/backup/
+**/.hyperframes/history-id
+**/.hyperframes/hf-ids-stamped.json
+**/.thumbnails/
+
+# Render outputs can be regenerated and may be large
+**/renders/
+
+# Common local dependencies and logs
+**/node_modules/
+*.log

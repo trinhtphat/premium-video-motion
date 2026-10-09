@@ -1,0 +1,1 @@
+{"duration":3.7,"maxStaticSec":1.4,"assertions":[{"kind":"appearsBy","selector":"#sharing-word","bySec":1.6},{"kind":"before","a":"#sharing-word","b":"#sharing-sub"},{"kind":"staysInFrame","selector":"#sharing-sub"},{"kind":"keepsMoving","withinSelector":"#scene-sharing"}]}

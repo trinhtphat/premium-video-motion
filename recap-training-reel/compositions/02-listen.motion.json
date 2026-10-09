@@ -1,0 +1,1 @@
+{"duration":2.2,"maxStaticSec":1,"assertions":[{"kind":"appearsBy","selector":"#listen-word","bySec":1.4},{"kind":"before","a":"#listen-a","b":"#listen-word"},{"kind":"staysInFrame","selector":"#listen-word"}]}

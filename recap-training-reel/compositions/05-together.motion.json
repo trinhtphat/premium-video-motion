@@ -1,0 +1,1 @@
+{"duration":2.4,"maxStaticSec":1,"assertions":[{"kind":"appearsBy","selector":"#together-word","bySec":1.5},{"kind":"staysInFrame","selector":"#together-word"},{"kind":"keepsMoving","withinSelector":"#scene-together"}]}

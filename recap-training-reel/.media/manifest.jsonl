@@ -1,0 +1,10 @@
+{"id":"bgm_001","type":"bgm","path":"assets/audio/final-hit.wav","source":"existing","description":"final hit","duration":1.4,"provenance":{"provider":"local","adopted":true}}
+{"id":"bgm_002","type":"bgm","path":"assets/audio/inspiring-guitar-15s.mp3","source":"existing","description":"inspiring guitar 15s","duration":15,"provenance":{"provider":"local","adopted":true}}
+{"id":"bgm_003","type":"bgm","path":"assets/audio/wipe-whoosh.wav","source":"existing","description":"wipe whoosh","duration":0.4,"provenance":{"provider":"local","adopted":true}}
+{"id":"image_001","type":"image","path":"assets/images/01-meet.jpg","source":"existing","description":"01 meet","width":2560,"height":1706,"provenance":{"provider":"local","adopted":true}}
+{"id":"image_002","type":"image","path":"assets/images/02-listen-a.jpg","source":"existing","description":"02 listen a","width":2560,"height":1706,"provenance":{"provider":"local","adopted":true}}
+{"id":"image_003","type":"image","path":"assets/images/02-listen-b.jpg","source":"existing","description":"02 listen b","width":2560,"height":1706,"provenance":{"provider":"local","adopted":true}}
+{"id":"image_004","type":"image","path":"assets/images/03-share.jpg","source":"existing","description":"03 share","width":2560,"height":1706,"provenance":{"provider":"local","adopted":true}}
+{"id":"image_005","type":"image","path":"assets/images/04-practice.jpg","source":"existing","description":"04 practice","width":1706,"height":2560,"provenance":{"provider":"local","adopted":true}}
+{"id":"image_006","type":"image","path":"assets/images/05-together.jpg","source":"existing","description":"05 together","width":2560,"height":1706,"provenance":{"provider":"local","adopted":true}}
+{"id":"image_007","type":"image","path":"assets/images/06-sharing.jpg","source":"existing","description":"06 sharing","width":864,"height":1536,"provenance":{"provider":"local","adopted":true}}
