@@ -1,0 +1,107 @@
+{
+  "music": [
+    {
+      "id": "pack.Rise-of-Legends-_chosic.com_(chosic.com)",
+      "file": "sound-effects-pack/music/Rise-of-Legends-_chosic.com_(chosic.com).mp3",
+      "duration_s": 125.597,
+      "license_status": "user_confirmed"
+    },
+    {
+      "id": "pack.comical-2",
+      "file": "sound-effects-pack/music/comical-2.mp3",
+      "duration_s": 114.469,
+      "license_status": "user_confirmed"
+    },
+    {
+      "id": "pack.dreaming-big-31",
+      "file": "sound-effects-pack/music/dreaming-big-31.mp3",
+      "duration_s": 110.42,
+      "license_status": "user_confirmed"
+    },
+    {
+      "id": "pack.dreaming-of-you-952",
+      "file": "sound-effects-pack/music/dreaming-of-you-952.mp3",
+      "duration_s": 148.584,
+      "license_status": "user_confirmed"
+    },
+    {
+      "id": "pack.driving-ambition-32",
+      "file": "sound-effects-pack/music/driving-ambition-32.mp3",
+      "duration_s": 102.191,
+      "license_status": "user_confirmed"
+    },
+    {
+      "id": "pack.echoes-188",
+      "file": "sound-effects-pack/music/echoes-188.mp3",
+      "duration_s": 226.299,
+      "license_status": "user_confirmed"
+    },
+    {
+      "id": "pack.epical-drums-01-676",
+      "file": "sound-effects-pack/music/epical-drums-01-676.mp3",
+      "duration_s": 105.979,
+      "license_status": "user_confirmed"
+    },
+    {
+      "id": "pack.feeling-happy-5",
+      "file": "sound-effects-pack/music/feeling-happy-5.mp3",
+      "duration_s": 147.984,
+      "license_status": "user_confirmed"
+    },
+    {
+      "id": "pack.fm-freemusic-inspiring-optimistic-upbeat-energetic-guitar-rhythm(chosic.com)",
+      "file": "sound-effects-pack/music/fm-freemusic-inspiring-optimistic-upbeat-energetic-guitar-rhythm(chosic.com).mp3",
+      "duration_s": 133.433,
+      "license_status": "user_confirmed"
+    },
+    {
+      "id": "pack.just-kidding-11",
+      "file": "sound-effects-pack/music/just-kidding-11.mp3",
+      "duration_s": 178.913,
+      "license_status": "user_confirmed"
+    },
+    {
+      "id": "pack.kidding-around-9",
+      "file": "sound-effects-pack/music/kidding-around-9.mp3",
+      "duration_s": 107.024,
+      "license_status": "user_confirmed"
+    },
+    {
+      "id": "pack.life-s-a-movie-322",
+      "file": "sound-effects-pack/music/life-s-a-movie-322.mp3",
+      "duration_s": 121.182,
+      "license_status": "user_confirmed"
+    },
+    {
+      "id": "pack.serene-view-443",
+      "file": "sound-effects-pack/music/serene-view-443.mp3",
+      "duration_s": 113.972,
+      "license_status": "user_confirmed"
+    },
+    {
+      "id": "pack.sleepy-cat-135",
+      "file": "sound-effects-pack/music/sleepy-cat-135.mp3",
+      "duration_s": 119.16,
+      "license_status": "user_confirmed"
+    },
+    {
+      "id": "pack.smile-1076",
+      "file": "sound-effects-pack/music/smile-1076.mp3",
+      "duration_s": 96.627,
+      "license_status": "user_confirmed"
+    },
+    {
+      "id": "pack.tears-of-joy-839",
+      "file": "sound-effects-pack/music/tears-of-joy-839.mp3",
+      "duration_s": 140.173,
+      "license_status": "user_confirmed"
+    },
+    {
+      "id": "pack.valley-sunset-127",
+      "file": "sound-effects-pack/music/valley-sunset-127.mp3",
+      "duration_s": 133.776,
+      "license_status": "user_confirmed"
+    }
+  ],
+  "note": "Run tools/beatgrid.py on a selected track before making beat-accurate cuts."
+}
